@@ -1,0 +1,7 @@
+encoding and decoding base64
+
+echo "tauseed zaman" | base64
+
+echo "dGF1c2VlZCB6YW1hbgo=" | base64 --decode -i
+
+
