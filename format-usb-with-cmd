@@ -1,0 +1,7 @@
+# first open cmd
+> diskpart
+> list disk 
+> select disk number 
+> clean
+> format fs=ntfs
+> assign
